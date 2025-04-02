@@ -62,8 +62,4 @@ The dashboard provides a **360° business view** by tracking:
 
 ✔ - **Strategic business planning** with an integrated executive dashboard  
 
----  
 
-### 🚀 **Explore the full project, Power BI reports, and dataset in this repository!**  
-
-💡 **Feedback & suggestions are highly appreciated!**  
