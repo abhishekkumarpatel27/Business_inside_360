@@ -1,9 +1,6 @@
 
-# 📊 Business Insights 360 – AtliQ Hardware | Power BI Project  
+# 📊 Business Insights 360 –  Power BI Project  
 
-## Power BI Dashboard
-
-Check out the interactive Power BI dashboard:  
 
 
 
